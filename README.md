@@ -19,7 +19,10 @@ When making a github account,its inportant to make sure you will remember this u
 Anyways, back to making an account: 
 
 
-![alt text](https://www.evernote.com/Home.action?origin=marketingsite#n=63b1de53-d737-4a01-9651-c143121a9f05&ses=4&sh=2&sds=2& "Logo Title Text 1")
+![Alt Text](screenshot-github1.png)
+
+
+
 
 ---
 ## Repository Setup
