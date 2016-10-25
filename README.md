@@ -7,9 +7,9 @@ _by Leocadio Bonilla_
 
 Git and Github are similar, but _very_ different.
 
-Git: takes snapshots of code and save it; can be reverted back to it at any point and saved.It doesn't requre GitHub to use.
+Git: takes snapshots of code and save it; can be reverted back to it at any point and saved. It doesn't require GitHub to use.
 
-Github:it stores commits from git to the cloud also know as their website, [github.com](https://www.github.com). Also GitHub needs Git.
+Github: it stores commits from git to the cloud also know as their website, [github.com](https://www.github.com). Also GitHub needs Git.
 
 ---
 ## Initial Setup
