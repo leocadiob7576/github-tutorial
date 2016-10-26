@@ -14,12 +14,12 @@ Github: it stores commits from git to the cloud also know as their website, [git
 ---
 ## Initial Setup
 
-When making a github account,its inportant to make sure you will remember this username and pass word. Get a piece of paper and write it down so you wont forget. 
+When making a github account, its inportant to make sure you will remember this username and pass word. Get a piece of paper and write it down so you wont forget. 
 
 Anyways, back to making an account: 
 
 
-![Alt Text](screenshot-github1.png)
+![Alt Text](screenshot-github1.png)''
 
 
 
