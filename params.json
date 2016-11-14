@@ -1,0 +1,6 @@
+{
+  "name": "GitHub-tutorial",
+  "tagline": "Getting started with Github",
+  "body": "# GitHub Tutorial\r\n\r\n_by Leocadio Bonilla_\r\n\r\n---\r\n## Git vs. GitHub\r\n\r\nGit and Github are similar, but _very_ different.\r\n\r\nGit: takes snapshots of code and save it; can be reverted back to it at any point and saved. It doesn't require GitHub to use.\r\n\r\nGithub: it stores commits from git to the cloud also know as their website, [github.com](https://www.github.com). Also GitHub needs Git.\r\n\r\n---\r\n## Initial Setup\r\n\r\nWhen making a github account,its inportant to make sure you will remember this username and pass word. Get a piece of paper and write it down so you wont forget. \r\n\r\nAnyways, back to making an account: \r\n\r\n\r\n![Alt Text](screenshot-github1.png)\r\n\r\n\r\n\r\n\r\n---\r\n## Repository Setup\r\n\r\n\r\n\r\n---\r\n## Workflow & Commands",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
